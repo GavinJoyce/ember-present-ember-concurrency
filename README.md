@@ -1,7 +1,10 @@
 ember-present-ember-concurrency
 ==============================================================================
 
-[Short description of the addon.]
+This is the fist proof of concept ember addon for use with [`ember-present`](https://github.com/gavinjoyce/ember-present) presentations. It allows you to use these slides in your own Ember presentations:
+
+![ember-concurrency](https://user-images.githubusercontent.com/2526/44415234-bfcba480-a524-11e8-862f-6098e1ccd1f6.gif)
+
 
 Installation
 ------------------------------------------------------------------------------
@@ -14,7 +17,7 @@ ember install ember-present-ember-concurrency
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+See https://github.com/gavinjoyce/jsconf-us-2018 for example usage
 
 
 Contributing
