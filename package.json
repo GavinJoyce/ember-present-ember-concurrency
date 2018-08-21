@@ -1,13 +1,13 @@
 {
   "name": "ember-present-ember-concurrency",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A set of reusable ember-present slides which demonstrate ember-concurrency",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/GavinJoyce/ember-present-ember-concurrency",
   "license": "MIT",
-  "author": "",
+  "author": "Gavin Joyce",
   "directories": {
     "doc": "doc",
     "test": "tests"
