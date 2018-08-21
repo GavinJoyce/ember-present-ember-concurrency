@@ -6,6 +6,19 @@ module.exports = function(environment) {
     environment,
     rootURL: '/',
     locationType: 'auto',
+    'ember-websockets': {
+      socketIO: true
+    },
+    emberPresent: {
+      socketServerUrl: 'http://localhost:5200',
+      socketServerPort: 5200,
+      roles: {
+        screen: {
+          name: 'screen',
+          type: 'scaled'
+        },
+      }
+    },
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
