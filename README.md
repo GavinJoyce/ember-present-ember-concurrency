@@ -5,7 +5,7 @@ This is the fist proof of concept ember addon for use with [`ember-present`](htt
 
 ![ember-concurrency](https://user-images.githubusercontent.com/2526/44415234-bfcba480-a524-11e8-862f-6098e1ccd1f6.gif)
 
-These slides were copied with permission from [Alex Matchneer's](https://twitter.com/amatchneer) EmberConf 2017 [presentation on `ember-concurrency`](https://www.youtube.com/watch?v=VEzVDOmY-dc).
+These slides were extracted with permission from [Alex Matchneer's](https://twitter.com/amatchneer) EmberConf 2017 [presentation on `ember-concurrency`](https://www.youtube.com/watch?v=VEzVDOmY-dc) ([source](https://github.com/machty/ember-concurrency-global-meetup-slides)).
 
 Installation
 ------------------------------------------------------------------------------
@@ -18,7 +18,7 @@ ember install ember-present-ember-concurrency
 Usage
 ------------------------------------------------------------------------------
 
-See https://github.com/gavinjoyce/jsconf-us-2018 for example usage
+See https://github.com/gavinjoyce/jsconf-us-2018 for example usage (more comprehensive docs will follow)
 
 
 Contributing
