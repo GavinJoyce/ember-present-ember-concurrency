@@ -5,6 +5,7 @@ This is the fist proof of concept ember addon for use with [`ember-present`](htt
 
 ![ember-concurrency](https://user-images.githubusercontent.com/2526/44415234-bfcba480-a524-11e8-862f-6098e1ccd1f6.gif)
 
+These slides were copied with permission from [Alex Matchneer's](https://twitter.com/amatchneer) EmberConf 2017 [presentation on `ember-concurrency`](https://www.youtube.com/watch?v=VEzVDOmY-dc).
 
 Installation
 ------------------------------------------------------------------------------
