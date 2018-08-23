@@ -12,6 +12,7 @@ Router.map(function() {
     this.slide('02-ember-concurrency-none', { transition: 'slide' });
     this.slide('03-ember-concurrency-drop', { transition: 'slide' });
     this.slide('04-ember-concurrency-enqueue', { transition: 'slide' });
+    this.slide('05-ember-concurrency-restartable', { transition: 'slide' });
   });
 });
 
